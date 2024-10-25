@@ -1,0 +1,438 @@
+		<div data-elementor-type="wp-page" data-elementor-id="5657" class="elementor elementor-5657">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-1de527c elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="1de527c" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1f2313a" data-id="1f2313a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-89678d4 elementor-widget elementor-widget-workscout-homesearch-wide" data-id="89678d4" data-element_type="widget" data-widget_type="workscout-homesearch-wide.default">
+				<div class="elementor-widget-container">
+			
+		<!-- Intro Banner
+    ================================================== -->
+		<div class="intro-banner boxed boxed-wide dark-overlay-boxed" data-background-image="">
+
+			<!-- Transparent Header Spacer -->
+			<div class="transparent-header-spacer"></div>
+			<div class="container">
+			<div class="boxed-search-wide-wrapper">
+				<div class="boxed-search-container">
+					<!-- Intro Headline -->
+
+					<div class="banner-headline-alt">
+						<h3>
+							<strong>Find the right fit</strong>
+							<span> Hire Experts or be hired in								 <div class="typed-words"></div>							</span>
+						</h3>
+					</div>
+
+
+										<form method="GET" class="workscout_main_search_form" action="https://workscout.in/browse-jobs/">
+						<!-- Search Bar -->
+
+						<div class="intro-banner-search-form">
+																								<!-- Search Field -->
+									<div class="intro-search-field">
+										
+										<input id="intro-keywords" name="search_keywords" type="text" placeholder="Job Title">
+									</div>
+								
+																	<!-- Search Field -->
+									<div class="intro-search-field with-autocomplete">
+										
+																					<div class="input-with-icon location">
+												<input id="search_location" name="search_location" type="text" placeholder="Location">
+
+												<a href="#"><i title="Find My Location" class="tooltip left la la-map-marked-alt"></i></a>
+												<span class="type-and-hit-enter">type and hit enter</span> 											</div>
+										
+									</div>
+								
+
+																	<!-- Search Field -->
+									<div class="intro-search-field">
+
+										<select  name='search_category' id='search_category' class='select-on-home'>
+	<option value='0' selected='selected'>All Categories</option>
+	<option class="level-0" value="122">Accounting / Finance</option>
+	<option class="level-0" value="124">Automotive Jobs</option>
+	<option class="level-0" value="132">Construction / Facilities</option>
+	<option class="level-0" value="140">Education Training</option>
+	<option class="level-0" value="157">Food Services</option>
+	<option class="level-0" value="146">Healthcare</option>
+	<option class="level-0" value="159">Sales &amp; Marketing</option>
+	<option class="level-1" value="178">- Market &amp; Customer Research</option>
+	<option class="level-0" value="165">Telecommunications</option>
+	<option class="level-0" value="167">Transportation / Logistics</option>
+</select>
+									</div>
+								
+								<!-- Button -->
+								<div class="intro-search-button">
+									<button class="button ripple-effect">
+										<span>Search</span>
+										<i></i>
+									</button>
+								</div>
+							
+						</div>
+					</form>
+					<!-- Stats -->
+					
+													<div class="adv-search-btn">
+								<span>Need more search options? </span>
+								<a href="https://workscout.in/jobs/">Advanced Search <i class="la la-long-arrow-alt-right"></i></a>
+							</div>
+						
+					
+				</div>
+				
+				
+				<div class="boxed-search-right-side">
+					<h2>Post a job and hire a pro!</h2>
+<p>We're ready to work with you to help you reach your hiring goals.</p>
+<p><a href="/dashboard/">Let's Get Started</a></p>
+				</div>
+								<div class="boxed-search-footer">
+													<h5 class="highlighted-categories-headline">Or browse featured categories:</h5>
+								
+									
+								<div class="highlighted-categories">
+									
+																				<!-- Box -->
+											<a href="https://workscout.in/job-category/automotive-jobs/" class="highlighted-category">
+																								<i>
+													<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="-1.5 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="icomoon-ignore">
+</g>
+<path d="M5.867 15.467c-1.173 0-2.133 0.96-2.133 2.133s0.96 2.133 2.133 2.133 2.133-0.96 2.133-2.133-0.96-2.133-2.133-2.133zM5.867 18.667c-0.587 0-1.067-0.48-1.067-1.067s0.48-1.067 1.067-1.067c0.587 0 1.067 0.48 1.067 1.067s-0.48 1.067-1.067 1.067z" fill="#000000">
+
+</path>
+<path d="M22.933 15.467c-1.173 0-2.133 0.96-2.133 2.133s0.96 2.133 2.133 2.133c1.173 0 2.133-0.96 2.133-2.133s-0.96-2.133-2.133-2.133zM22.933 18.667c-0.587 0-1.067-0.48-1.067-1.067s0.48-1.067 1.067-1.067c0.587 0 1.067 0.48 1.067 1.067s-0.48 1.067-1.067 1.067z" fill="#000000">
+
+</path>
+<path d="M25.12 11.2l-0.907-4.267c-0.373-1.387-1.44-2.133-2.88-2.133h-13.867c-1.493 0-2.347 0.747-2.773 2.133l-0.96 4.267h-3.733v1.067h3.467v0.053c-1.653 0.107-2.933 1.493-2.933 3.2v7.413h1.6v1.6c0 1.493 1.173 2.667 2.667 2.667s2.667-1.173 2.667-2.667v-1.6h13.867v1.6c0 1.493 1.173 2.667 2.667 2.667s2.667-1.173 2.667-2.667v-1.6h1.6v-7.413c0-1.653-1.28-3.040-2.88-3.2v-0.053h3.413v-1.067h-3.68zM5.707 7.253c0.32-0.96 0.8-1.387 1.76-1.387h13.867c1.013 0 1.6 0.427 1.867 1.333l1.067 5.12h-19.733l1.173-5.067zM6.4 24.533c0 0.907-0.693 1.6-1.6 1.6s-1.6-0.693-1.6-1.6v-1.6h3.2v1.6zM25.6 24.533c0 0.907-0.693 1.6-1.6 1.6s-1.6-0.693-1.6-1.6v-1.6h3.2v1.6zM27.2 15.52v6.347h-25.6v-6.347c0-1.173 0.96-2.133 2.133-2.133h21.333c1.173 0 2.133 0.96 2.133 2.133z" fill="#000000">
+
+</path>
+</svg>												</i>
+																								<h4>Automotive Jobs</h4>
+																							</a>	
+
+																				<!-- Box -->
+											<a href="https://workscout.in/job-category/design-art-multimedia/" class="highlighted-category">
+																								<h4>Design, Art &amp; Multimedia</h4>
+																							</a>	
+
+																				<!-- Box -->
+											<a href="https://workscout.in/job-category/healthcare/" class="highlighted-category">
+																								<i>
+													<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg fill="#000000" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 viewBox="0 0 60 60" xml:space="preserve">
+<g>
+	<g>
+		<path d="M59,20H40V1c0-0.6-0.4-1-1-1H21c-0.6,0-1,0.4-1,1v19H1c-0.6,0-1,0.4-1,1v18c0,0.6,0.4,1,1,1h19v19c0,0.6,0.4,1,1,1h11v-2
+			H22V39c0-0.6-0.4-1-1-1H2V22h19c0.6,0,1-0.4,1-1V2h16v19c0,0.6,0.4,1,1,1h19v17h2V21C60,20.4,59.6,20,59,20z"/>
+		<path d="M53,43H43c-3.9,0-7,3.1-7,7v10h2V50c0-2.8,2.2-5,5-5h4v7h2v-7h4c2.8,0,5,2.2,5,5v10h2V50C60,46.1,56.9,43,53,43z"/>
+		<path d="M47,42h2c2.8,0,5-2.2,5-5v-3c0-2.8-2.2-5-5-5h-2c-2.8,0-5,2.2-5,5v3C42,39.8,44.2,42,47,42z M44,34c0-1.7,1.3-3,3-3h2
+			c1.7,0,3,1.3,3,3v3c0,1.7-1.3,3-3,3h-2c-1.7,0-3-1.3-3-3V34z"/>
+		<rect x="41" y="53" width="2" height="7"/>
+		<rect x="53" y="53" width="2" height="7"/>
+		<rect x="24" y="4" width="2" height="2"/>
+		<rect x="4" y="24" width="2" height="2"/>
+		<rect x="54" y="24" width="2" height="2"/>
+		<rect x="4" y="34" width="2" height="2"/>
+		<rect x="24" y="54" width="2" height="2"/>
+		<rect x="34" y="4" width="2" height="2"/>
+		<rect x="42" y="16" width="2" height="2"/>
+		<rect x="46" y="16" width="2" height="2"/>
+		<rect x="50" y="16" width="2" height="2"/>
+		<rect x="16" y="16" width="2" height="2"/>
+		<rect x="12" y="16" width="2" height="2"/>
+		<rect x="8" y="16" width="2" height="2"/>
+		<rect x="16" y="42" width="2" height="2"/>
+		<rect x="12" y="42" width="2" height="2"/>
+		<rect x="16" y="46" width="2" height="2"/>
+		<rect x="16" y="50" width="2" height="2"/>
+		<rect x="12" y="46" width="2" height="2"/>
+		<rect x="8" y="42" width="2" height="2"/>
+		<rect x="16" y="12" width="2" height="2"/>
+		<rect x="16" y="8" width="2" height="2"/>
+		<rect x="12" y="12" width="2" height="2"/>
+		<rect x="46" y="12" width="2" height="2"/>
+		<rect x="42" y="12" width="2" height="2"/>
+		<rect x="42" y="8" width="2" height="2"/>
+	</g>
+</g>
+</svg>												</i>
+																								<h4>Healthcare</h4>
+																							</a>	
+
+																
+								</div>
+						
+									</div>
+				</div>
+
+
+			</div>
+		</div>
+				<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.9"></script>
+		<script>
+			var typed = new Typed('.typed-words', {
+				strings: ["healthcare"," automotive"," sales & marketing"," accounting"],
+				typeSpeed: 80,
+				backSpeed: 80,
+				backDelay: 4000,
+				startDelay: 1000,
+				loop: true,
+				showCursor: true
+			});
+		</script>
+
+		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6593bcb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6593bcb" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-429dcb8" data-id="429dcb8" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-c90cc9d elementor-widget elementor-widget-workscout-headline" data-id="c90cc9d" data-element_type="widget" data-widget_type="workscout-headline.default">
+				<div class="elementor-widget-container">
+					<h3 
+		style="text-align:center;" class="headline  headline-aligned-to-center centered headline-extra-spacing headline-with-subtitle "> Popular Categories  <span > Find the right industry for your career​</span></h3>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-66b395d elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="66b395d" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-61996e5" data-id="61996e5" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-503bd99 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="503bd99" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-0af20a5" data-id="0af20a5" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-e4d2ec7 elementor-widget elementor-widget-workscout-imagebox" data-id="e4d2ec7" data-element_type="widget" data-widget_type="workscout-imagebox.default">
+				<div class="elementor-widget-container">
+					
+					<div class="alternative-imagebox">
+		 
+
+			<a href="https://workscout.in/job-category/design-art-multimedia/" rel="nofollow" class="img-box 	" 
+				data-background-image="https://workscout.in/wp-content/uploads/2022/02/balazs-ketyi-_x335IZXxfc-unsplash.jpg" >
+				
+				<div class="img-box-content visible">
+											<h4>Design, Art &amp; Multimedia</h4>
+						<span>0 Listings							</span> 									</div>
+			</a>
+					</div>
+		 
+
+	
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-63960a7" data-id="63960a7" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-1a5f24e elementor-widget elementor-widget-workscout-imagebox" data-id="1a5f24e" data-element_type="widget" data-widget_type="workscout-imagebox.default">
+				<div class="elementor-widget-container">
+					
+					<div class="alternative-imagebox">
+		 
+
+			<a href="https://workscout.in/job-category/construction-facilities/" rel="nofollow" class="img-box 	" 
+				data-background-image="https://workscout.in/wp-content/uploads/2022/02/daniel-mccullough-HtBlQdxfG9k-unsplash.jpg" >
+				
+				<div class="img-box-content visible">
+											<h4>Construction / Facilities</h4>
+						<span>3 Listings							</span> 									</div>
+			</a>
+					</div>
+		 
+
+	
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-f5aa163" data-id="f5aa163" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-03d7a82 elementor-widget elementor-widget-workscout-imagebox" data-id="03d7a82" data-element_type="widget" data-widget_type="workscout-imagebox.default">
+				<div class="elementor-widget-container">
+					
+					<div class="alternative-imagebox">
+		 
+
+			<a href="https://workscout.in/job-category/healthcare/" rel="nofollow" class="img-box 	" 
+				data-background-image="https://workscout.in/wp-content/uploads/2022/02/owen-beard-DK8jXx1B-1c-unsplash.jpg" >
+				
+				<div class="img-box-content visible">
+											<h4>Healthcare</h4>
+						<span>2 Listings							</span> 									</div>
+			</a>
+					</div>
+		 
+
+	
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-39cb0bf" data-id="39cb0bf" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d179c41 elementor-widget elementor-widget-workscout-imagebox" data-id="d179c41" data-element_type="widget" data-widget_type="workscout-imagebox.default">
+				<div class="elementor-widget-container">
+					
+					<div class="alternative-imagebox">
+		 
+
+			<a href="https://workscout.in/job-category/public-relations/" rel="nofollow" class="img-box 	" 
+				data-background-image="https://workscout.in/wp-content/uploads/2022/02/jakob-owens-WUmb_eBrpjs-unsplash.jpg" >
+				
+				<div class="img-box-content visible">
+											<h4>Public Relations</h4>
+						<span>0 Listings							</span> 									</div>
+			</a>
+					</div>
+		 
+
+	
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-d488640 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="d488640" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-eb0289d" data-id="eb0289d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-c0b883f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c0b883f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-ed53dd8" data-id="ed53dd8" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-39ca8265 elementor-widget elementor-widget-workscout-imagebox" data-id="39ca8265" data-element_type="widget" data-widget_type="workscout-imagebox.default">
+				<div class="elementor-widget-container">
+					
+					<div class="alternative-imagebox">
+		 
+
+			<a href="https://workscout.in/job-category/education-training/" rel="nofollow" class="img-box 	" 
+				data-background-image="https://workscout.in/wp-content/uploads/2022/02/brooke-cagle-g1Kr4Ozfoac-unsplash.jpg" >
+				
+				<div class="img-box-content visible">
+											<h4>Education Training</h4>
+						<span>2 Listings							</span> 									</div>
+			</a>
+					</div>
+		 
+
+	
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-1fbb3a7" data-id="1fbb3a7" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6ae7503 elementor-widget elementor-widget-workscout-imagebox" data-id="6ae7503" data-element_type="widget" data-widget_type="workscout-imagebox.default">
+				<div class="elementor-widget-container">
+					
+					<div class="alternative-imagebox">
+		 
+
+			<a href="https://workscout.in/job-category/sales-marketing/" rel="nofollow" class="img-box 	" 
+				data-background-image="https://workscout.in/wp-content/uploads/2023/11/promotion-product-strategy-marketing-concept.jpg" >
+				
+				<div class="img-box-content visible">
+											<h4>Sales &amp; Marketing</h4>
+						<span>1 Listing							</span> 									</div>
+			</a>
+					</div>
+		 
+
+	
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-1e66736" data-id="1e66736" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-174ece elementor-widget elementor-widget-workscout-imagebox" data-id="174ece" data-element_type="widget" data-widget_type="workscout-imagebox.default">
+				<div class="elementor-widget-container">
+					
+					<div class="alternative-imagebox">
+		 
+
+			<a href="https://workscout.in/job-category/restaurant-food-service/" rel="nofollow" class="img-box 	" 
+				data-background-image="https://workscout.in/wp-content/uploads/2022/02/chad-montano-MqT0asuoIcU-unsplash.jpg" >
+				
+				<div class="img-box-content visible">
+											<h4>Food Services</h4>
+						<span>2 Listings							</span> 									</div>
+			</a>
+					</div>
+		 
+
+	
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-ba2bf9b" data-id="ba2bf9b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-4521db55 elementor-widget elementor-widget-workscout-imagebox" data-id="4521db55" data-element_type="widget" data-widget_type="workscout-imagebox.default">
+				<div class="elementor-widget-container">
+					
+					<div class="alternative-imagebox">
+		 
+
+			<a href="https://workscout.in/job-category/transportation-logistics/" rel="nofollow" class="img-box 	" 
+				data-background-image="https://workscout.in/wp-content/uploads/2022/02/pexels-tom-fisk-1427107.jpg" >
+				
+				<div class="img-box-content visible">
+											<h4>Transportation / Logistics</h4>
+						<span>2 Listings							</span> 									</div>
+			</a>
+					</div>
+		 
+
+	
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-922fd9e elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="922fd9e" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e5e7965" data-id="e5e7965" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-9fb49a6 elementor-widget elementor-widget-workscout-headline" data-id="9fb49a6" data-element_type="widget" data-widget_type="workscout-headline.default">
+				<div class="elementor-widget-container">
+					<h3 
+		style="text-align:center;" class="headline  headline-aligned-to-center centered headline-extra-spacing headline-with-subtitle "> Featured Companies  <span > Always interested in meeting new talent</span></h3>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+		{"id":5657,"date":"2016-09-17T23:07:30","date_gmt":"2016-09-17T23:07:30","guid":{"rendered":"https:\/\/workscout.in\/?page_id=5657"},"modified":"2024-01-18T12:31:04","modified_gmt":"2024-01-18T12:31:04","slug":"home-2","status":"publish","type":"page","link":"https:\/\/workscout.in\/home-2\/","title":{"rendered":"Home #2"},"content":{"rendered":"\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-e17c97e elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"e17c97e\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c1d8aa6\" data-id=\"c1d8aa6\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-3805895 elementor-widget elementor-widget-workscout-companies\" data-id=\"3805895\" data-element_type=\"widget\" data-widget_type=\"workscout-companies.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\n            \n            <ul class=\"wpjmc-companies grid-three-in-row\" >\n\n                                    \n<li class=\"company post-24721 type-company status-publish hentry company_category-technology company_strength-1-5 company_average_salary-15-20k\">\n    <a href=\"https:\/\/workscout.in\/company\/king-lrawqefhs-london-uk\/\" class=\"company-title--link\">\n        <div class=\"company-inner\">        <div class=\"company-logo\">\n                        <img decoding=\"async\" src=\"https:\/\/workscout.in\/wp-content\/uploads\/job-manager-uploads\/company_logo\/2021\/11\/company-logo-03.png\" class=\"company-logo--image\" alt=\"King\">\n\n\n            <ul id=\"company-meta\">\n                <li id=\"company-meta-location\">London, UK <\/li>\n                                                <li class=\" company-meta-company_strength\" id=\"company-meta-company_strength\">1-5                                <\/li>\n\n                                                <li class=\" company-meta-company_average_salary\" id=\"company-meta-company_average_salary\">$15-$20k                                <\/li>\n\n                \n            <\/ul>\n        <\/div>\n        <div class=\"company-body\">\n            <h3 class=\"company-title\">\n                King            <\/h3>\n                            <p class=\"company-data_tagline\">Leader in tech industry<\/p>\n            \n                            <div class=\"company-list-rating\">\n                                        <div class=\"star-rating\" data-rating=\"4.7\"><\/div>\n                    <div class=\"rating-counter\">(2 reviews)<\/div>\n                <\/div>\n                        <div class=\"company-list-excerpt\"><p>Proactively fabricate one-to-one materials via effective e-business. Completely synergize scalable e-commerce rather.<\/p>\n<\/div>\n        <\/div>\n        <\/div>    <\/a>\n<\/li>                                    \n<li class=\"company post-24724 type-company status-publish hentry company_category-technology company_strength-2802 company_average_salary-50k company_revenue-100k\">\n    <a href=\"https:\/\/workscout.in\/company\/tech-98mevlhn-new-york-usa\/\" class=\"company-title--link\">\n        <div class=\"company-inner\">        <div class=\"company-logo\">\n                        <img decoding=\"async\" src=\"https:\/\/workscout.in\/wp-content\/uploads\/job-manager-uploads\/company_logo\/2021\/11\/company-logo-01-2.png\" class=\"company-logo--image\" alt=\"Tech Bits\">\n\n\n            <ul id=\"company-meta\">\n                <li id=\"company-meta-location\">New York, USA <\/li>\n                                                <li class=\" company-meta-company_strength\" id=\"company-meta-company_strength\">50+                                <\/li>\n\n                                                <li class=\" company-meta-company_average_salary\" id=\"company-meta-company_average_salary\">$50k+                                <\/li>\n\n                \n            <\/ul>\n        <\/div>\n        <div class=\"company-body\">\n            <h3 class=\"company-title\">\n                Tech Bits            <\/h3>\n                            <p class=\"company-data_tagline\">Lead the way to a brighter Life<\/p>\n            \n                            <div class=\"company-not-rated margin-bottom-5\">Not rated yet<\/div>\n                        <div class=\"company-list-excerpt\"><p>Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway.<\/p>\n<\/div>\n        <\/div>\n        <\/div>    <\/a>\n<\/li>                                    \n<li class=\"company post-24728 type-company status-publish hentry company_category-technology company_strength-1-5 company_average_salary-50k company_revenue-100k\">\n    <a href=\"https:\/\/workscout.in\/company\/purethemes-e7zikjph-dublin-ireland\/\" class=\"company-title--link\">\n        <div class=\"company-inner\">        <div class=\"company-logo\">\n                        <img decoding=\"async\" src=\"https:\/\/workscout.in\/wp-content\/uploads\/job-manager-uploads\/company_logo\/2021\/11\/purethemes_av1.png\" class=\"company-logo--image\" alt=\"Purethemes\">\n\n\n            <ul id=\"company-meta\">\n                <li id=\"company-meta-location\">Dublin, Ireland <\/li>\n                                                <li class=\" company-meta-company_strength\" id=\"company-meta-company_strength\">1-5                                <\/li>\n\n                                                <li class=\" company-meta-company_average_salary\" id=\"company-meta-company_average_salary\">$50k+                                <\/li>\n\n                \n            <\/ul>\n        <\/div>\n        <div class=\"company-body\">\n            <h3 class=\"company-title\">\n                Purethemes            <\/h3>\n                            <p class=\"company-data_tagline\">Top-Notch WordPress Experts<\/p>\n            \n                            <div class=\"company-list-rating\">\n                                        <div class=\"star-rating\" data-rating=\"5.0\"><\/div>\n                    <div class=\"rating-counter\">(1 review)<\/div>\n                <\/div>\n                        <div class=\"company-list-excerpt\"><p>Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits.<\/p>\n<\/div>\n        <\/div>\n        <\/div>    <\/a>\n<\/li>                \n            <\/ul>\n\n            \n\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-13c2449 elementor-align-center elementor-widget elementor-widget-button\" data-id=\"13c2449\" data-element_type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-button-wrapper\">\n\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"\/companies\/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Browse Companies<\/span>\n\t\t\t\t\t<\/span>\n\t\t\t\t\t<\/a>\n\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/section>\n\t\t\t\t<section class=\"elementor-section elementor-inner-section elementor-element elementor-element-102a90ec elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"102a90ec\" data-element_type=\"section\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t\t\t\t<div class=\"elementor-background-overlay\"><\/div>\n\t\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-150fc346\" data-id=\"150fc346\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-2612fdc6 elementor-widget elementor-widget-heading\" data-id=\"2612fdc6\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t<style>\/*! elementor - v3.23.0 - 05-08-2024 *\/\n.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}<\/style><h2 class=\"elementor-heading-title elementor-size-default\">Enchance Your Business<\/h2>\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-67b28ef6 elementor-widget elementor-widget-text-editor\" data-id=\"67b28ef6\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t<style>\/*! elementor - v3.23.0 - 05-08-2024 *\/\n.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}<\/style>\t\t\t\t<p>Earn extra income and unlock new opportunities by advertising your company<\/p>\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-2768d5b2 elementor-widget elementor-widget-button\" data-id=\"2768d5b2\" data-element_type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-button-wrapper\">\n\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"\/dashboard\/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Get Started<\/span>\n\t\t\t\t\t<\/span>\n\t\t\t\t\t<\/a>\n\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t<div class=\"elementor-column elementor-col-66 elementor-inner-column elementor-element elementor-element-68c805c6\" data-id=\"68c805c6\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/section>\n\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-2d49d24 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"2d49d24\" data-element_type=\"section\" data-settings=\"{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-88f7d97\" data-id=\"88f7d97\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<section class=\"elementor-section elementor-inner-section elementor-element elementor-element-543a17e elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"543a17e\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-extended\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-e35880e\" data-id=\"e35880e\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-430edba elementor-widget elementor-widget-image\" data-id=\"430edba\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t<style>\/*! elementor - v3.23.0 - 05-08-2024 *\/\n.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=\".svg\"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}<\/style>\t\t\t\t\t\t\t\t\t\t<img fetchpriority=\"high\" decoding=\"async\" width=\"640\" height=\"960\" src=\"https:\/\/workscout.in\/wp-content\/uploads\/2022\/02\/annie-spratt-MChSQHxGZrQ-unsplash.jpg\" class=\"attachment-large size-large wp-image-26358\" alt=\"\" srcset=\"https:\/\/workscout.in\/wp-content\/uploads\/2022\/02\/annie-spratt-MChSQHxGZrQ-unsplash.jpg 640w, https:\/\/workscout.in\/wp-content\/uploads\/2022\/02\/annie-spratt-MChSQHxGZrQ-unsplash-200x300.jpg 200w, https:\/\/workscout.in\/wp-content\/uploads\/2022\/02\/annie-spratt-MChSQHxGZrQ-unsplash-600x900.jpg 600w\" sizes=\"(max-width: 640px) 100vw, 640px\" \/>\t\t\t\t\t\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t<div class=\"elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2b41413\" data-id=\"2b41413\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-ddc44f5 elementor-widget elementor-widget-image\" data-id=\"ddc44f5\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img decoding=\"async\" width=\"576\" height=\"1024\" src=\"https:\/\/workscout.in\/wp-content\/uploads\/2022\/02\/clint-bustrillos-K7OUs6y_cm8-unsplash-576x1024.jpg\" class=\"attachment-large size-large wp-image-26355\" alt=\"\" srcset=\"https:\/\/workscout.in\/wp-content\/uploads\/2022\/02\/clint-bustrillos-K7OUs6y_cm8-unsplash-576x1024.jpg 576w, https:\/\/workscout.in\/wp-content\/uploads\/2022\/02\/clint-bustrillos-K7OUs6y_cm8-unsplash-169x300.jpg 169w, https:\/\/workscout.in\/wp-content\/uploads\/2022\/02\/clint-bustrillos-K7OUs6y_cm8-unsplash-600x1066.jpg 600w, https:\/\/workscout.in\/wp-content\/uploads\/2022\/02\/clint-bustrillos-K7OUs6y_cm8-unsplash.jpg 640w\" sizes=\"(max-width: 576px) 100vw, 576px\" \/>\t\t\t\t\t\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/section>\n\t\t\t\t<section class=\"elementor-section elementor-inner-section elementor-element elementor-element-ede0ac2 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"ede0ac2\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-extended\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-34b1486\" data-id=\"34b1486\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-1271be4 elementor-widget elementor-widget-image\" data-id=\"1271be4\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img decoding=\"async\" width=\"640\" height=\"359\" src=\"https:\/\/workscout.in\/wp-content\/uploads\/2022\/02\/pexels-tom-fisk-1427107.jpg\" class=\"attachment-large size-large wp-image-26154\" alt=\"\" srcset=\"https:\/\/workscout.in\/wp-content\/uploads\/2022\/02\/pexels-tom-fisk-1427107.jpg 640w, https:\/\/workscout.in\/wp-content\/uploads\/2022\/02\/pexels-tom-fisk-1427107-300x168.jpg 300w, https:\/\/workscout.in\/wp-content\/uploads\/2022\/02\/pexels-tom-fisk-1427107-600x337.jpg 600w\" sizes=\"(max-width: 640px) 100vw, 640px\" \/>\t\t\t\t\t\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t<div class=\"elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-9a86720\" data-id=\"9a86720\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-a99d36e elementor-widget elementor-widget-image\" data-id=\"a99d36e\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"640\" height=\"960\" src=\"https:\/\/workscout.in\/wp-content\/uploads\/2022\/02\/olga-serjantu-tqkDGqPW8Vo-unsplash.jpg\" class=\"attachment-large size-large wp-image-26357\" alt=\"\" srcset=\"https:\/\/workscout.in\/wp-content\/uploads\/2022\/02\/olga-serjantu-tqkDGqPW8Vo-unsplash.jpg 640w, https:\/\/workscout.in\/wp-content\/uploads\/2022\/02\/olga-serjantu-tqkDGqPW8Vo-unsplash-200x300.jpg 200w, https:\/\/workscout.in\/wp-content\/uploads\/2022\/02\/olga-serjantu-tqkDGqPW8Vo-unsplash-600x900.jpg 600w\" sizes=\"(max-width: 640px) 100vw, 640px\" \/>\t\t\t\t\t\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/section>\n\t\t\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t<div class=\"elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-90f9f3f\" data-id=\"90f9f3f\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-48f67ff elementor-widget elementor-widget-heading\" data-id=\"48f67ff\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Hire The Best Freelancers For Any Job, Online<\/h2>\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-eb2c535 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list\" data-id=\"eb2c535\" data-element_type=\"widget\" data-widget_type=\"icon-list.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t<link rel=\"stylesheet\" href=\"https:\/\/workscout.in\/wp-content\/plugins\/elementor\/assets\/css\/widget-icon-list.min.css\">\t\t<ul class=\"elementor-icon-list-items\">\n\t\t\t\t\t\t\t<li class=\"elementor-icon-list-item\">\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"fas fa-check\"><\/i>\t\t\t\t\t\t<\/span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Find professionals you can trust by browsing their experience and skills<\/span>\n\t\t\t\t\t\t\t\t\t<\/li>\n\t\t\t\t\t\t\t\t<li class=\"elementor-icon-list-item\">\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"fas fa-check\"><\/i>\t\t\t\t\t\t<\/span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">We've got freelancers for jobs of any size or budget, across 500+ skills<\/span>\n\t\t\t\t\t\t\t\t\t<\/li>\n\t\t\t\t\t\t\t\t<li class=\"elementor-icon-list-item\">\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"fas fa-check\"><\/i>\t\t\t\t\t\t<\/span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Unmatched quality of remote, hybrid, and flexible jobs<\/span>\n\t\t\t\t\t\t\t\t\t<\/li>\n\t\t\t\t\t\t<\/ul>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-186dcc1 elementor-widget elementor-widget-button\" data-id=\"186dcc1\" data-element_type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-button-wrapper\">\n\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"\/resumes\/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Hire a Freelancer<\/span>\n\t\t\t\t\t<\/span>\n\t\t\t\t\t<\/a>\n\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/section>\n\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-5389589 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default\" data-id=\"5389589\" data-element_type=\"section\" data-settings=\"{&quot;stretch_section&quot;:&quot;section-stretched&quot;}\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-no\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-77d00c7\" data-id=\"77d00c7\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-42ba745 elementor-widget elementor-widget-workscout-counters\" data-id=\"42ba745\" data-element_type=\"widget\" data-widget_type=\"workscout-counters.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t        <div id=\"counters\">\n            <div class=\"container\">\n                                        <div class=\"columns four\">\n\n\n                            <div class=\" counter-box\">\n                                <span class=\"counter\">22<\/span>\n                                                                    <i>10<\/i>\n                                \n                                <p>Job Offers<\/p>\n                            <\/div>\n                        <\/div>\n\n                                        <div class=\"columns four\">\n\n\n                            <div class=\" counter-box\">\n                                <span class=\"counter\">8<\/span>\n                                                                    <i>10<\/i>\n                                \n                                <p>Resumes<\/p>\n                            <\/div>\n                        <\/div>\n\n                                        <div class=\"columns four\">\n\n\n                            <div class=\" counter-box\">\n                                <span class=\"counter\">162<\/span>\n                                                                    <i>5<\/i>\n                                \n                                <p>Companies<\/p>\n                            <\/div>\n                        <\/div>\n\n                            <\/div>\n        <\/div>\n\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/section>\n\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-f3a142a elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"f3a142a\" data-element_type=\"section\" data-settings=\"{&quot;stretch_section&quot;:&quot;section-stretched&quot;}\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-edbcb82\" data-id=\"edbcb82\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-6fd9757 elementor-widget elementor-widget-workscout-headline\" data-id=\"6fd9757\" data-element_type=\"widget\" data-widget_type=\"workscout-headline.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h3 \n\t\tstyle=\"text-align:center;\" class=\"headline  headline-aligned-to-center centered headline-extra-spacing headline-with-subtitle \"> Popular Cities  <span > Browse job offers by popular locations<\/span><\/h3>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/section>\n\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-4c9017b elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"4c9017b\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-2bf1d44\" data-id=\"2bf1d44\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-7dd7e43 elementor-widget elementor-widget-workscout-imagebox\" data-id=\"7dd7e43\" data-element_type=\"widget\" data-widget_type=\"workscout-imagebox.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\n\t\t \n\n\t\t\t<a href=\"https:\/\/workscout.in\/job-region\/los-angeles\/\" rel=\"nofollow\" class=\"img-box \t\" \n\t\t\t\tdata-background-image=\"https:\/\/workscout.in\/wp-content\/uploads\/2022\/02\/pexels-edgar-colomba-2671089.jpg\" >\n\t\t\t\t\n\t\t\t\t<div class=\"img-box-content visible\">\n\t\t\t\t\t\t\t\t\t\t\t<h4>Los Angeles<\/h4>\n\t\t\t\t\t\t<span>6 Listings\t\t\t\t\t\t\t<\/span> \t\t\t\t\t\t\t\t\t<\/div>\n\t\t\t<\/a>\n\t\t \n\n\t\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t<div class=\"elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-37f4d0c\" data-id=\"37f4d0c\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-06ff6e9 elementor-widget elementor-widget-workscout-imagebox\" data-id=\"06ff6e9\" data-element_type=\"widget\" data-widget_type=\"workscout-imagebox.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\n\t\t \n\n\t\t\t<a href=\"https:\/\/workscout.in\/job-region\/miami\/\" rel=\"nofollow\" class=\"img-box \t\" \n\t\t\t\tdata-background-image=\"https:\/\/workscout.in\/wp-content\/uploads\/2024\/01\/popular-location-04.jpg\" >\n\t\t\t\t\n\t\t\t\t<div class=\"img-box-content visible\">\n\t\t\t\t\t\t\t\t\t\t\t<h4>Miami<\/h4>\n\t\t\t\t\t\t<span>5 Listings\t\t\t\t\t\t\t<\/span> \t\t\t\t\t\t\t\t\t<\/div>\n\t\t\t<\/a>\n\t\t \n\n\t\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/section>\n\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-ea1bccf elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"ea1bccf\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-97f6256\" data-id=\"97f6256\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-459c178 elementor-widget elementor-widget-workscout-imagebox\" data-id=\"459c178\" data-element_type=\"widget\" data-widget_type=\"workscout-imagebox.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\n\t\t \n\n\t\t\t<a href=\"https:\/\/workscout.in\/job-region\/san-francisco\/\" rel=\"nofollow\" class=\"img-box \t\" \n\t\t\t\tdata-background-image=\"https:\/\/workscout.in\/wp-content\/uploads\/2024\/01\/popular-location-03.jpg\" >\n\t\t\t\t\n\t\t\t\t<div class=\"img-box-content visible\">\n\t\t\t\t\t\t\t\t\t\t\t<h4>San Francisco<\/h4>\n\t\t\t\t\t\t<span>6 Listings\t\t\t\t\t\t\t<\/span> \t\t\t\t\t\t\t\t\t<\/div>\n\t\t\t<\/a>\n\t\t \n\n\t\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t<div class=\"elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-295718a\" data-id=\"295718a\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-ac05323 elementor-widget elementor-widget-workscout-imagebox\" data-id=\"ac05323\" data-element_type=\"widget\" data-widget_type=\"workscout-imagebox.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\n\t\t \n\n\t\t\t<a href=\"https:\/\/workscout.in\/job-region\/new-york\/\" rel=\"nofollow\" class=\"img-box \t\" \n\t\t\t\tdata-background-image=\"https:\/\/workscout.in\/wp-content\/uploads\/2024\/01\/popular-location-01.jpg\" >\n\t\t\t\t\n\t\t\t\t<div class=\"img-box-content visible\">\n\t\t\t\t\t\t\t\t\t\t\t<h4>New York<\/h4>\n\t\t\t\t\t\t<span>5 Listings\t\t\t\t\t\t\t<\/span> \t\t\t\t\t\t\t\t\t<\/div>\n\t\t\t<\/a>\n\t\t \n\n\t\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/section>\n\t\t\t\t<\/div>\n\t\t","protected":false},"excerpt":{"rendered":"<p>London, UK 1-5 $15-$20k King Leader in tech industry (2 reviews) Proactively fabricate one-to-one materials via effective e-business. Completely synergize scalable e-commerce rather. New York, USA 50+ $50k+ Tech Bits&#8230;<\/p>\n","protected":false},"author":2,"featured_media":0,"parent":0,"menu_order":0,"comment_status":"closed","ping_status":"closed","template":"","meta":{"footnotes":""},"class_list":["post-5657","page","type-page","status-publish","hentry"],"_links":{"self":[{"href":"https:\/\/workscout.in\/wp-json\/wp\/v2\/pages\/5657"}],"collection":[{"href":"https:\/\/workscout.in\/wp-json\/wp\/v2\/pages"}],"about":[{"href":"https:\/\/workscout.in\/wp-json\/wp\/v2\/types\/page"}],"author":[{"embeddable":true,"href":"https:\/\/workscout.in\/wp-json\/wp\/v2\/users\/2"}],"replies":[{"embeddable":true,"href":"https:\/\/workscout.in\/wp-json\/wp\/v2\/comments?post=5657"}],"version-history":[{"count":350,"href":"https:\/\/workscout.in\/wp-json\/wp\/v2\/pages\/5657\/revisions"}],"predecessor-version":[{"id":27985,"href":"https:\/\/workscout.in\/wp-json\/wp\/v2\/pages\/5657\/revisions\/27985"}],"wp:attachment":[{"href":"https:\/\/workscout.in\/wp-json\/wp\/v2\/media?parent=5657"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}}
